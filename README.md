@@ -1,4 +1,4 @@
-# my-business-blog
+# IPTV GOOLD ONE
 IPTV Australia
 <!DOCTYPE html>
 <html>
@@ -9,7 +9,7 @@ IPTV Australia
     <h1>Welcome to My Professional Blog</h1>
     <p>We provide the best digital services across Australia. 
        Check out our main website for more details: 
-       <a href="https://yourwebsite.com.au">Visit Our Website</a>
+       <a href="https://iptvgoldone.com">Visit Our Website</a>
     </p>
 </body>
 </html>
