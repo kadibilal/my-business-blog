@@ -3,7 +3,7 @@ IPTV Australia
 <!DOCTYPE html>
 <html>
 <head>
-    <title>High Quality Services in Australia</title>
+    <title>High Quality Services Streaming in Australia</title>
 </head>
 <body>
     <h1>Welcome to My Professional Blog</h1>
